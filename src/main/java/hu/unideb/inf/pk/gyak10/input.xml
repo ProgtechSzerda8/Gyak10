@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gyakcsoport>
+
+<hallgato neptunkod="HEN825">
+<vezeteknev>Tóth</vezeteknev>
+<keresztnev>Jolán</keresztnev>
+<atlag>3.1</atlag>
+</hallgato>
+
+<hallgato neptunkod="MOE123">
+<vezeteknev>Nagy</vezeteknev>
+<keresztnev>Béla</keresztnev>
+<atlag>2.4</atlag>
+</hallgato>
+
+<hallgato neptunkod="HUD187">
+<vezeteknev>Kiss</vezeteknev>
+<keresztnev>Péter</keresztnev>
+<atlag>4.3</atlag>
+</hallgato>
+
+</gyakcsoport>
